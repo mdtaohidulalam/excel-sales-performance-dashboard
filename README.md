@@ -9,6 +9,8 @@ An interactive Excel dashboard analyzing 2,000 sales records to monitor KPIs, ex
 - 2,000 orders (one row per order), Jan–Dec 2026
 - 12 fields: Order ID, Date, Region, Sales Channel, Customer Type, Product Category, Product, Salesperson, Quantity, Unit Price, Discount, Revenue
 
+![Dataset preview](dataset-preview.png)
+
 ## Key figures (unfiltered)
 | Revenue | Orders | Units | Avg order value |
 |---|---|---|---|
@@ -43,4 +45,5 @@ An interactive Excel dashboard analyzing 2,000 sales records to monitor KPIs, ex
 ## Project Files
 - `Interactive_Sales_Performance_Dashboard.xlsx` — Excel workbook.
 - `dashboard-preview.png` — Dashboard screenshot.
-- `dashboard-preview-added-filters.png` — Dashboard screenshot.
+- `dashboard-preview-added-filters.png` — Dashboard with added filters screenshot.
+- `dataset-preview.png` — Dataset screenshot.
